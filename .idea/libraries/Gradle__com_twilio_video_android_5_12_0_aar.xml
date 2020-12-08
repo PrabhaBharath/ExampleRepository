@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twilio:video-android:5.12.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ecd0dc875759de4b66fcca3e4ab148/video-android-5.12.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ecd0dc875759de4b66fcca3e4ab148/video-android-5.12.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ecd0dc875759de4b66fcca3e4ab148/video-android-5.12.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ecd0dc875759de4b66fcca3e4ab148/video-android-5.12.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ecd0dc875759de4b66fcca3e4ab148/video-android-5.12.0/jars/libs/libwebrtc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/video-android/5.12.0/eb25d1dba593a9728c37eec4a4e6e2632669b712/video-android-5.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/video-android/5.12.0/3df4b4ebd565738a8fcb7f6681a7ac111287f8d8/video-android-5.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

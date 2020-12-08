@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1486898828/exampleAdvancedCameraCapturer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1486898828/exampleAdvancedCameraCapturer.iml" group="video-quickstart-android-master/exampleAdvancedCameraCapturer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1457108232/exampleAudioSink.iml" filepath="$PROJECT_DIR$/.idea/modules/1457108232/exampleAudioSink.iml" group="video-quickstart-android-master/exampleAudioSink" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/312253498/exampleCustomAudioDevice.iml" filepath="$PROJECT_DIR$/.idea/modules/312253498/exampleCustomAudioDevice.iml" group="video-quickstart-android-master/exampleCustomAudioDevice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-65488267/exampleCustomVideoCapturer.iml" filepath="$PROJECT_DIR$/.idea/modules/-65488267/exampleCustomVideoCapturer.iml" group="video-quickstart-android-master/exampleCustomVideoCapturer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-510600884/exampleCustomVideoRenderer.iml" filepath="$PROJECT_DIR$/.idea/modules/-510600884/exampleCustomVideoRenderer.iml" group="video-quickstart-android-master/exampleCustomVideoRenderer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/923947392/exampleDataTrack.iml" filepath="$PROJECT_DIR$/.idea/modules/923947392/exampleDataTrack.iml" group="video-quickstart-android-master/exampleDataTrack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1475261415/exampleScreenCapturer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1475261415/exampleScreenCapturer.iml" group="video-quickstart-android-master/exampleScreenCapturer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/440853795/exampleVideoInvite.iml" filepath="$PROJECT_DIR$/.idea/modules/440853795/exampleVideoInvite.iml" group="video-quickstart-android-master/exampleVideoInvite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quickstart.iml" filepath="$PROJECT_DIR$/.idea/modules/quickstart.iml" group="video-quickstart-android-master/quickstart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-265384033/quickstartKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/-265384033/quickstartKotlin.iml" group="video-quickstart-android-master/quickstartKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1398833958/video-quickstart-android-master.iml" filepath="$PROJECT_DIR$/.idea/modules/1398833958/video-quickstart-android-master.iml" group="video-quickstart-android-master" />
+    </modules>
+  </component>
+</project>

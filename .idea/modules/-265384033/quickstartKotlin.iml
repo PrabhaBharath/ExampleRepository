@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":quickstartKotlin" external.linked.project.path="$MODULE_DIR$/../../../../quickstartKotlin" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="video-quickstart-android-master" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":quickstartKotlin" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.0.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/res;file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/res;file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/res;file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/res;file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/res;file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../quickstartKotlin/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../quickstartKotlin/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.4.0/98be06f8dfc5750d45b887d2b3330ef49390aeb7/kotlin-android-extensions-runtime-1.4.0.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/3f6f2edd81ff69803f8097edb7c6afeb/audioswitch-1.1.0-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.4.0/9cc187c3dfaf6e4001bdf962e3cdadff7690261b/kotlin-stdlib-jdk7-1.4.0.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.0/63e75298e93d4ae0b299bb869cf0c627196f8843/kotlin-stdlib-1.4.0.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.0/1c752cce0ead8d504ccc88a4fed6471fd83ab0dd/kotlin-stdlib-common-1.4.0.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/e784f82963f6d099d3bc8e7cb723b1d3/video-android-5.12.0-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/56532be2025bab412c7cc59009923b39/relinker-1.3.1-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/a476785a323106358c0a7e4b8fb32ed7/constraint-layout-1.1.3-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/a6153bebf22c0c8a7e63ea26a044db20/ion-2.1.8-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/404b65586bb9f5588f3e62e8d11ac36c/androidasync-2.1.8-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/60c705fab45947faf013f3d24e0ad12f/preference-v14-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/022b4319fdb48e3069c8479ff768fc22/design-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/98a8a5d77cd9f8f8bb9b9175c3650bcd/preference-v7-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/d3bfe1b54fbe7a2ee91b10f08f04e6df/appcompat-v7-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/314c10c824e513fc12bd44fa5aa3b215/animated-vector-drawable-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/0065aaf56b5f9cb2e5bd64d709b98eaa/support-vector-drawable-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/2de9809c4222992a3562dd834b711a18/recyclerview-v7-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/af77337ed6bf648ee90461e760ddf496/transition-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/907412783290cb636a0662532ae4ee3e/support-v4-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/cfad758778501b1635186f610d75b371/support-media-compat-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/e186a65429b507c422dedf1f52abc5ec/support-fragment-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/2dad3aaf5ac45c498c136ce8a6bfafff/support-core-utils-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/83ba9d07667f831a78b7b96a6de6a9f4/support-core-ui-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/ed809a17a264e5f22a262db1d45c71fb/support-compat-26.1.0-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar;C:/Users/Admin/.gradle/caches/transforms-2/files-2.1/674a062012d7b1b67b5a36d14f95cf46/runtime-1.0.0-api.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar;C:/Users/Admin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar;C:/Users/Admin/AppData/Local/Android/Sdk/platforms/android-30/android.jar;C:/Users/Admin/AppData/Local/Android/Sdk/build-tools/29.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="quickstartKotlin_debug" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.4.0/b10de696fb26620d57a208cad1ccbbffe68f17e9/kotlin-android-extensions-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.4.0/e5f0d669a77787ccbccd49c71b57bfd7b35faec4/kotlin-compiler-embeddable-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.4.0/633873c93bba12bcf764e1cf8fb36baa5501b8ff/kotlin-daemon-embeddable-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.4.0/aa2101a19d8688e368ae6e35e8967550ced73884/kotlin-reflect-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.4.0/52ac54a56c9121f54fcca387c5a0f441d1af9be8/kotlin-script-runtime-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.0/1c752cce0ead8d504ccc88a4fed6471fd83ab0dd/kotlin-stdlib-common-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.0/63e75298e93d4ae0b299bb869cf0c627196f8843/kotlin-stdlib-1.4.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../quickstartKotlin">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/aidl_source_output_dir/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/renderscript_source_output_dir/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/aidl_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/renderscript_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../quickstartKotlin/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.1.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:common:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twilio:audioswitch:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.twilio:video-android:5.12.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.getkeepsafe.relinker:relinker:1.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout:1.1.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.koushikdutta.ion:ion:2.1.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.koushikdutta.async:androidasync:2.1.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:preference-v14:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:design:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:preference-v7:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:recyclerview-v7:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:transition:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-v4:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar" level="project" />
+  </component>
+</module>

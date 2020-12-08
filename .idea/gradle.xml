@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../exampleAdvancedCameraCapturer" />
+            <option value="$PROJECT_DIR$/../exampleAudioSink" />
+            <option value="$PROJECT_DIR$/../exampleCustomAudioDevice" />
+            <option value="$PROJECT_DIR$/../exampleCustomVideoCapturer" />
+            <option value="$PROJECT_DIR$/../exampleCustomVideoRenderer" />
+            <option value="$PROJECT_DIR$/../exampleDataTrack" />
+            <option value="$PROJECT_DIR$/../exampleScreenCapturer" />
+            <option value="$PROJECT_DIR$/../exampleVideoInvite" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../quickstartKotlin" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
